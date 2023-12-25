@@ -26,6 +26,6 @@ Happy learning and exploring the fascinating world of Large Language Models!
 
 **Note:** Ensure you have the necessary dependencies installed before running any code in this repository. Refer to individual model directories for specific instructions.
 
-**Fahmi**  
+**Author:** Fahmi  
 **Contact:** fahmiazizfadhil09@gmail.com  
 **Date:** 25/12/2023
